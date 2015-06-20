@@ -1,0 +1,37 @@
+/*
+Theme Name: Diverso Child
+Author: Overdog Art
+Author URI: http://overdogart.com
+Description: A child theme of Diverso
+Template: diverso
+Version: 1.6.0
+*/
+
+/* =Imports styles from the parent theme
+-------------------------------------------------------------- */
+@import url("../diverso/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+a.socials.pinterest    { background:url('http://title-smart.com/wp-content/uploads/2014/03/pinterest.png') no-repeat }
+a.socials.google    { background:url('http://title-smart.com/wp-content/uploads/2014/03/google.png') no-repeat }
+
+#content p {
+	margin:0 0 1em 0;
+}
+
+#content h3, #content h4, #content h5 {
+	margin:.1em 0 .3em 0;
+}
+
+#content table.vendor-table td {
+	vertical-align:top;
+	line-height:1.2em;
+}
+
+#content table.vendor-table td.partner-label {
+	color:#ccb975;
+	font-size:.8em;
+	text-align:right;
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Allerta';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Allerta Regular'), local('Allerta-Regular'), url(http://fonts.gstatic.com/s/allerta/v7/5tgwy7yYrNSzP9n8aR6sZg.woff2) format('woff2'), url(http://fonts.gstatic.com/s/allerta/v7/URdUfE0ePw9inz9dceNoVA.woff) format('woff');
+}
